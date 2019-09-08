@@ -1,0 +1,9 @@
+*{
+ touch-action: none;
+}
+body{
+    background-image : url('lb1pg46.jpg');
+	
+    background-repeat : no-repeat;
+      background-size : 100%;
+}
